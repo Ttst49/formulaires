@@ -1,0 +1,21 @@
+body{
+    background-color: white;
+}
+div.coeurform{
+    color: white;
+    text-transform: uppercase;
+    font-weight: bolder;
+    background-color: black;
+    height: 35vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+
+    margin-left: 35vw;
+    margin-right: 35vw;
+}
+button.sub{
+    align-self: flex-end;
+}
